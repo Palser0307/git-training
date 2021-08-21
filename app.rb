@@ -8,3 +8,7 @@ end
 get '/Palser0307' do
   'Hello hogehoge'
 end
+
+get '/PuruPuruCK' do
+  'Hello PuruPuruCK!'
+end
